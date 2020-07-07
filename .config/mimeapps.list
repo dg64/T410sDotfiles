@@ -1,0 +1,7 @@
+[Added Associations]
+image/jpeg=gpicview.desktop;
+application/pdf=inkscape.desktop;gimp.desktop;org.gnome.Evince.desktop;
+
+[Default Applications]
+image/jpeg=gpicview.desktop
+application/pdf=org.gnome.Evince.desktop
